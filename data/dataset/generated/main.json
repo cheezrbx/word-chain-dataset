@@ -6056,7 +6056,7 @@
       "unit",
       "design"
     ],
-    "ears": [
+    "ear": [
       "protection",
       "plugs",
       "muffs",
@@ -6733,28 +6733,6 @@
       "module",
       "feature",
       "layout"
-    ],
-    "footer": [
-      "section",
-      "area",
-      "text",
-      "panel",
-      "tool",
-      "design",
-      "system",
-      "bar",
-      "layout",
-      "interface",
-      "file",
-      "row",
-      "task",
-      "application",
-      "module",
-      "feature",
-      "option",
-      "page",
-      "element",
-      "component"
     ],
     "cut": [
       "tool",
