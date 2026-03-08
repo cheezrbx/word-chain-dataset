@@ -6,13 +6,16 @@
         "wall"
 	],
 	"ball": [
-		"roll"
+		"roll",
+		"knowledge"
 	],
 	"up": [
 		"looking",
 		"lifting",
         "to",
-		"town"
+		"town",
+		"wind",
+		"down"
 	],
 	"paint": [
 		"ball"
@@ -108,7 +111,8 @@
     "time": [
 		"managment",
         "stop",
-		"traveler"
+		"traveler",
+		"out"
 	],
     "dry": [
 		"out"
@@ -347,7 +351,10 @@
 	],
 	"game": [
 		"code",
-		"set"
+		"set",
+		"roblox",
+		"style",
+		"minecraft"
 	],
 	"song": [
 		"maker",
@@ -364,13 +371,16 @@
 	"business": [
 		"team",
 		"car",
-		"economy"
+		"economy",
+		"idea"
 	],
 	"out": [
 		"smart",
 		"play",
 		"come",
-		"look"
+		"look",
+		"let",
+		"standing"
 	],
 	"statue": [
 		"liberty"
@@ -499,6 +509,215 @@
 	],
 	"break": [
 		"dance"
+	],
+	"fast": [
+		"farward",
+		"cheetah"
+	],
+	"size": [
+		"difference"
+	],
+	"camera": [
+		"focus",
+		"attachment",
+		"stand",
+		"roll",
+		"zoom",
+		"photo",
+		"picture"
+	],
+	"store": [
+		"good"
+	],
+	"night": [
+		"terror",
+		"fall"
+	],
+	"shot": [
+		"down"
+	],
+	"mystery": [
+		"clue",
+		"box",
+		"solve"
+	],
+	"old": [
+		"man",
+		"house"
+	],
+	"ear": [
+		"drum"
+	],
+	"play": [
+		"house",
+		"fair",
+		"along",
+		"with",
+		"good",
+		"bad"
+	],
+	"fair": [
+		"point"
+	],
+	"walk": [
+		"by"
+	],
+	"log": [
+		"out"
+	],
+	"tail": [
+		"gate"
+	],
+	"space": [
+		"out"
+	],
+	"vacation": [
+		"house"
+	],
+	"home": [
+		"pet",
+		"intruder",
+		"sick",
+		"dog",
+		"cat",
+		"maid",
+		"alone",
+		"door"
+	],
+	"fish": [
+		"bone",
+		"eye",
+		"meat"
+	],
+	"room": [
+		"bed",
+		"desk",
+		"lamp"
+	],
+	"return": [
+		"home",
+		"item",
+		"back"
+	],
+	"metal": [
+		"frame",
+		"door"
+	],
+	"wireless": [
+		"headphones"
+	],
+	"cave": [
+		"crystal",
+		"emerald",
+		"ruby",
+		"diamond",
+		"sapphire",
+		"dweller"
+	],
+	"release": [
+		"emotions",
+		"game",
+		"update"
+	],
+	"hill": [
+		"side"
+	],
+	"wash": [
+		"hair"
+	],
+	"hotel": [
+		"service"
+	],
+	"farm": [
+		"fruit",
+		"fruits",
+		"wheat"
+	],
+	"leave": [
+		"game",
+		"tip",
+		"bus",
+		"car",
+		"plane"
+	],
+	"bone": [
+		"dead"
+	],
+	"fall": [
+		"down"
+	],
+	"lobster": [
+		"meat"
+	],
+	"seed": [
+		"flower"
+	],
+	"material": [
+		"shop",
+		"store"
+	],
+	"care": [
+		"of",
+		"taker"
+	],
+	"strategy": [
+		"game"
+	],
+	"book": [
+		"shelf"
+	],
+	"match": [
+		"ignite",
+		"clothes"
+	],
+	"take": [
+		"pill",
+		"pills",
+		"away",
+		"money"
+	],
+	"treat": [
+		"good",
+		"bad",
+		"sickness"
+	],
+	"deal": [
+		"seal"
+	],
+	"search": [
+		"bar"
+	],
+	"bucket": [
+		"fish"
+	],
+	"towel": [
+		"wipe",
+		"clean"
+	],
+	"water": [
+		"well",
+		"bear"
+	],
+	"lock": [
+		"room"
+	],
+	"light": [
+		"car"
+	],
+	"door": [
+		"key",
+		"keys"
+	],
+	"talk": [
+		"smack",
+		"bad",
+		"good",
+		"down"
+	],
+	"hawk": [
+		"bird",
+		"leg"
 	]
+
     }
 }
