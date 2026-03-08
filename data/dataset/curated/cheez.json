@@ -432,6 +432,70 @@
 	],
 	"tip": [
 		"giver"
+	],
+	"soda": [
+		"pop"
+	],
+	"pop": [
+		"bubbles",
+		"bubble",
+		"genre",
+		"music",
+		"balloon",
+		"artist",
+		"singer",
+		"tart",
+		"bottle",
+		"champagne",
+		"smoke",
+		"cat",
+		"brush",
+		"eye"
+
+	],
+	"bubble": [
+		"gut",
+		"guts",
+		"tea",
+		"game",
+		"room",
+		"pop",
+		"foam",
+		"soap",
+		"gum",
+		"flavor",
+		"chocolate",
+		"couch",
+		"chart",
+		"football",
+		"foot",
+		"gun",
+		"house",
+		"column",
+		"elevator",
+		"wrap",
+		"up",
+		"point",
+		"drink",
+		"yogurt"
+	],
+	"gum": [
+		"bubble",
+		"flavor",
+		"drop",
+		"drops",
+		"tree",
+		"pop",
+		"ball",
+		"floss",
+		"recession",
+		"tooth",
+		"teeth",
+		"brush",
+		"brushing",
+		"pain",
+		"stick",
+		"nut"
 	]
     }
 }
