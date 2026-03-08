@@ -496,6 +496,9 @@
 		"pain",
 		"stick",
 		"nut"
+	],
+	"break": [
+		"dance"
 	]
     }
 }
