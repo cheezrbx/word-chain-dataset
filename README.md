@@ -26,8 +26,8 @@ Wanna contribute and help us add more combinations? You can do so by following t
 ```
 
 6. Go to your fork on Github and open a pull request from <your-branch-name> to upstream main. The changes will be reviewed and merged after a while.
-7. (optional) You can keep your fork's main branch up-to-date by switching to main and running these commands:
- - **make sure you move back into your feature branch with `git checkout <your-branch-name>` after doing this**
+7. You can keep your fork's main branch up-to-date by switching to main and running these commands:
+ - **make sure you move back into your feature branch and merge it with main with `git checkout <your-branch-name> git merge main` after doing this**
 ```sh
 	git checkout main
 	git fetch upstream
